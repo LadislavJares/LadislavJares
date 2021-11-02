@@ -1,6 +1,6 @@
 - 👋 čau, jsem Láďa
 - 👀 Je mi 16, chodím na střední prům. školu v MB a hraju hry
-- 🌱 Měl jsem tak moc rád hry až jsem se rozhodle, že se naučím programovat a nějakou snad naprogramuju
+- 🌱 Měl jsem tak moc rád hry až jsem se rozhodl, že se naučím programovat a nějakou snad naprogramuju
 
 <!---
 LadislavJares/LadislavJares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
